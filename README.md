@@ -45,7 +45,7 @@ Rest assured that I am trying to find a fix for these, but it may be near-imposs
 
 ## Running Locally
 Clone the repo with `git clone https://github.com/ChuckChuckler/coding-inspo-gen`\
-Open your IDE\
+Open the repo in your IDE\
 Ensure that you have both node and npm installed.\
 Use `cd app` to navigate into the app folder.\
 There, run the following: \
