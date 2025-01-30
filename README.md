@@ -19,8 +19,8 @@ Simple walkthroughs on specific ideas
 ## How to Use
 Change the settings based on your current skill level and how much time you'd like to commit to the project.\
 Click the "generate" button to generate some coding ideas based on your settings.\
-<sub>These will display on the right side of the screen.</sub>
-From there, you have three options.\
+<sub>These will display on the right side of the screen.</sub>\n
+From there, you have three options.
 - Like the topic, but not the suggestions? Click "refresh suggestions" to get three new project ideas.
 - Found a suggestion you like, but don't know where to begin? Just click on the suggestion, and receive a brief AI-generated walkthrough to help you get started.
 - Want a different topic? Click "generate" to refresh everything.
