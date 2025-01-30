@@ -22,7 +22,7 @@ Click the "generate" button to generate some coding ideas based on your settings
 <sub>These will display on the right side of the screen.</sub>
 From there, you have three options.\
 - Like the topic, but not the suggestions? Click "refresh suggestions" to get three new project ideas.
-- Found a suggestion you like, but don't know where to begin? Just click on the suggestion, and receive a brief AI-generated walkthrough to help you get started.\
+- Found a suggestion you like, but don't know where to begin? Just click on the suggestion, and receive a brief AI-generated walkthrough to help you get started.
 - Want a different topic? Click "generate" to refresh everything.
 That's it!
 
