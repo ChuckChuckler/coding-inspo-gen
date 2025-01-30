@@ -76,7 +76,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-white text-5xl/30 text-center mt-0">Coding Inspo</h1>
+      <h1 className="text-white text-5xl/30 text-center mt-0 opacity-0 opacity-100">Coding Inspo</h1>
       <h3 className="text-center text-2xl">Unsure of what to make for your next project? Click the generate button for some inspiration!</h3>
       <br></br>
       <hr className="w-[50%] m-auto border-solid border-white"></hr>
