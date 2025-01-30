@@ -38,7 +38,7 @@ Backend:
 Since this project relies so greatly on GeminiAPI to keep it functional, there may be some problems that arise. For the msot part, these are a result of GeminiAPI bugging out and not something I can fix directly.\
 Some bugs include:
 - "Refresh suggestions" seemingly generating the same suggestions, but worded differently
-- Data simply failing to generate + throwing an error --> this is a 503 'service unavailable' error that is totally out of my control-- you'll just have to wait a little while and then try again
+- Data simply failing to generate + throwing an error --> this is a 503 'service unavailable' error that is totally out of my control-- you'll just have to wait a little while and then try again\
 Rest assured that I am trying to find a fix for these, but it may be near-impossible since, again, they're out of my control.
 
 ## Running Locally
