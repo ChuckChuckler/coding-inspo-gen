@@ -44,3 +44,19 @@ Some bugs include:
 Rest assured that I am trying to find a fix for these, but it may be near-impossible since, again, they're out of my control.
 
 ## Running Locally
+Clone the repo with `git clone https://github.com/ChuckChuckler/coding-inspo-gen`\
+Open your IDE\
+Ensure that you have both node and npm installed.\
+Use `cd app` to navigate into the app folder.\
+There, run the following: \
+`npm install vite@latest`\
+`npm install tailwindcss`\
+`npm install axios`\
+`npm run dev`\
+Open another terminal; use `cd server` to navigate into the server folder.\
+There, run the following:\
+`npm install express`\
+`npm install cors`\
+`npm install @google/generative-ai`\
+`node index.js`\
+Finally, navigate to [localhost](http://localhost:5173/) (http://localhost:5173/), and the code should be working <3
