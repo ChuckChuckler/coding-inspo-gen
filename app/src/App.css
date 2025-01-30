@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+h1, h3, h2, h4, label, li{
+    @apply text-white;
+}
+
+h1, button{
+  font-family: "Pixelify Sans", serif;
+}
+
+h2{
+  font-family: "Bona Nova SC", serif;
+}
+
+h3{
+  font-family: "EB Garamond", serif;
+  color: #ddcafa;
+}
+
+label, li, p{
+  font-family: "Courier Prime", serif;
+}
+
+
+input{
+    @apply accent-[#932fc4];
+}
+
