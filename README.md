@@ -58,6 +58,6 @@ There, run the following:\
 `npm install express`\
 `npm install cors`\
 `npm install @google/generative-ai`\
-Make sure to visit the geminiapi official page and snag an api key to replace the "YOUR_API_KEY" holder value in index.js! Otherwise this will not work.\
+Make sure to snag a gemini api key (they are free) to replace the "YOUR_API_KEY_HERE" placeholder value in index.js! Otherwise this will not work.\
 `node index.js`\
 Finally, navigate to [localhost](http://localhost:5173/) (http://localhost:5173/), and the code should be working <3
