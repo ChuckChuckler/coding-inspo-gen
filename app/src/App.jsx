@@ -98,6 +98,7 @@ function App() {
 function Suggestions( {topic, idea1, idea2, idea3, opacity} ) {
   const [opacity2Global, changeOpacity2] = useState(0);
   const [helpGlobal, changeHelp] = useState([]);
+  const [helpTopic, changeHelpTopic] = useState([]);
 
   function help(txt){
     let body = {
@@ -109,6 +110,7 @@ function Suggestions( {topic, idea1, idea2, idea3, opacity} ) {
     .then((response)=>{
       changeHelp(response.data.projectHelp.split("!NEWLINE!"));
       changeOpacity2(100);
+      changeHelpTopic(txt);
     });
   }
 
@@ -126,7 +128,7 @@ function Suggestions( {topic, idea1, idea2, idea3, opacity} ) {
       </div>
       <br/>
       <div className= {`opacity-${opacity2Global}`}>
-        <h3 className='text-xl'>{topic}: Getting Started</h3>
+        <h3 className='text-xl'>{helpTopic}: Getting Started</h3>
         <br/>
         <p className='text-white'>
           {helpGlobal.map((line, index) => (
