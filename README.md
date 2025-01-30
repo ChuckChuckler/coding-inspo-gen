@@ -12,9 +12,7 @@ Parameter toggles
 - Project complexity: Beginner/Intermediate/Advanced
 - Time commitment: Around an hour/A day or two/Around a week
 - AI-Generated coding project ideas
-- Broad topic
-- More specific ideas
-Simple walkthroughs on specific ideas
+- Simple walkthroughs on specific ideas
 
 ## How to Use
 Change the settings based on your current skill level and how much time you'd like to commit to the project.\
