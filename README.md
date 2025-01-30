@@ -2,7 +2,7 @@
 Feeling uninspired? Want to code, but can't think of anything to make?\
 Use the Coding Inspo Generator!\
 The Coding Inspo Generator (for lack of a better name as of now) will generate for you a broad topic upon which you can base a project, as well as three suggestions for potential projects pertaining to the project.\
-<sub>**For example, if the broad topic is Time Management, some suggestions may include "Pomodoro timer", "To-do list", and "Simple scheduler".</sub>
+**For example, if the broad topic is Time Management, some suggestions may include "Pomodoro timer", "To-do list", and "Simple scheduler".
 
 First time using React (with Vite) + Tailwind!! I'm pretty proud of myself!\
 I had to recreate this project twice (make a new project and copy+paste all the code) since I kept getting bugs, and in the process of trying to fix them, ended up completely breaking vite lmaoo
@@ -19,7 +19,7 @@ Simple walkthroughs on specific ideas
 ## How to Use
 Change the settings based on your current skill level and how much time you'd like to commit to the project.\
 Click the "generate" button to generate some coding ideas based on your settings.\
-<sub>These will display on the right side of the screen.</sub>\
+These will display on the right side of the screen.\
 From there, you have three options.
 - Like the topic, but not the suggestions? Click "refresh suggestions" to get three new project ideas.
 - Found a suggestion you like, but don't know where to begin? Just click on the suggestion, and receive a brief AI-generated walkthrough to help you get started.
