@@ -27,7 +27,7 @@ That's it!
 ## Tools Used
 Frontend:
 - React
-- TailwindCSS
+- TailwindCSS\
 Backend:
 - Node
 - Express
