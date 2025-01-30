@@ -11,7 +11,7 @@ I had to recreate this project twice (make a new project and copy+paste all the 
 Parameter toggles
 - Project complexity: Beginner/Intermediate/Advanced
 - Time commitment: Around an hour/A day or two/Around a week
-AI-Generated coding project ideas
+- AI-Generated coding project ideas
 - Broad topic
 - More specific ideas
 Simple walkthroughs on specific ideas
